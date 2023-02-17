@@ -1,0 +1,4 @@
+id | kasutajanimi | parool | eesnimi | perekonnanimi
+3 | admin | c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec | Admin |
+12 | kasutaja | e367f29cc9e99ce6ef6aabb3c9c9a320991d0b59e132ae2d4bf1043299b676958d1dd69b8e433b167c89537894c49c3496534f29b0f69b8f77a3da350576e53c | Kasu | Taja
+42 | dijkstra | 5a35ad8b55888e6ffef2ccf45083feddc6918ad9286982b0c262cdd2b96484392376f8a375abe4772d5fd57373d8a7de61da2eb5f1fe80bbe3bc2c17c19b58a7 | Edsger Wybe | Dijkstra
